@@ -235,7 +235,7 @@ const Home = () => {
                 Frontend Developer
               </p>
               <p className="text-slate-700 dark:text-slate-300 mb-8 max-w-2xl leading-relaxed">
-                A passionate Web Designer focused on creating beautiful, responsive websites and focus on clean, modern designs that reflect both the brand's identity and the needs of its audience.
+                A passionate Web Designer focused on creating beautiful, responsive websites and focus on clean, modern designs that reflect both the brand&apos;s identity and the needs of its audience.
               </p>
 
               {/* Call-to-Action Buttons */}

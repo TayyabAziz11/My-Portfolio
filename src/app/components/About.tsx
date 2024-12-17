@@ -83,7 +83,7 @@ const About = () => {
                   Frontend Developer & UI Designer
                 </h3>
                 <p className="text-slate-700 dark:text-slate-300 mb-6">
-                  Hello! I'm a passionate frontend developer with a keen eye for creating beautiful and functional web experiences. My journey in web development started with a curiosity for building things that live on the internet, and it has evolved into a professional pursuit of crafting user-centric applications.
+                  Hello! I&apos;m a passionate frontend developer with a keen eye for creating beautiful and functional web experiences. My journey in web development started with a curiosity for building things that live on the internet, and it has evolved into a professional pursuit of crafting user-centric applications.
                 </p>
                 <p className="text-slate-700 dark:text-slate-300 mb-6">
                   I specialize in building responsive websites that provide seamless user experiences. My approach combines technical skills with creative problem-solving to deliver solutions that meet both user needs and business goals.
