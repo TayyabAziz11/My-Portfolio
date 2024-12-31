@@ -40,42 +40,42 @@ const Projects = () => {
     {
       name: "Restaurant Web App",
       description: "An interactive restaurant website with menu, reservation, and online ordering features.",
-      technologies: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
-      githubLink: "https://github.com/yourusername/restaurant-web",
-      liveLink: "https://restaurant-demo.vercel.app",
+      technologies: [ "Next.js", "TypeScript", "Tailwind CSS"],
+      githubLink: "https://github.com/TayyabAziz11/Restaurant-web",
+      liveLink: "https://restaurant-web-ecru.vercel.app/",
       image: "/Resturantweb.PNG"
     },
     {
-      name: "Movie Web App",
-      description: "Comprehensive movie information platform with search, ratings, and recommendations.",
-      technologies: ["Next.js", "TypeScript", "TMDB API", "Tailwind CSS"],
-      githubLink: "https://github.com/yourusername/movie-web",
-      liveLink: "https://movie-app-demo.vercel.app",
+      name: "Movie Web Homepage",
+      description: "Comprehensive movie information platform with search, ratings, and recommendations (Non-Responsive).",
+      technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
+      githubLink: "https://github.com/TayyabAziz11/Movie-homepage",
+      liveLink: "https://movie-homepage.vercel.app/",
       image: "/Movieweb.PNG"
     },
     {
       name: "Whitespace Web",
-      description: "Minimalist productivity and note-taking web application with clean design.",
-      technologies: ["React", "Firebase", "Tailwind CSS"],
-      githubLink: "https://github.com/yourusername/whitespace-web",
-      liveLink: "https://whitespace-demo.vercel.app",
+      description: "Whitespace web figma design (Non-responsive)",
+      technologies: ["Next.js", "TypeScript" , "Tailwind CSS"],
+      githubLink: "https://github.com/TayyabAziz11/Whitepace-Figma",
+      liveLink: "https://whitepace-figma-omega.vercel.app/",
       image: "/Whitepaceweb.PNG"
     },
     {
-      name: "Portfolio Tracker",
-      description: "Cryptocurrency and stock investment tracking application with real-time data.",
-      technologies: ["Next.js", "Chart.js", "Tailwind CSS", "Cryptocurrency API"],
-      githubLink: "https://github.com/yourusername/portfolio-tracker",
-      liveLink: "https://portfolio-tracker-demo.vercel.app",
-      image: "/api/placeholder/400/300"
+      name: "My Resume",
+      description: "My Resume created with HTML and css fully Responsive",
+      technologies: ["HTML", "CSS"],
+      githubLink: "https://github.com/TayyabAziz11/My-Resume",
+      liveLink: "https://my-resume-silk-three.vercel.app/",
+      image: "/my-resume.PNG"
     },
     {
-      name: "Social Media Dashboard",
-      description: "Comprehensive social media analytics and management platform.",
-      technologies: ["React", "Redux", "Chart.js", "Tailwind CSS"],
-      githubLink: "https://github.com/yourusername/social-dashboard",
-      liveLink: "https://social-dashboard-demo.vercel.app",
-      image: "/api/placeholder/400/300"
+      name: "Login Page",
+      description: "Responsive Home Login Page",
+      technologies: ["HTML", "CSS"],
+      githubLink: "https://github.com/TayyabAziz11/Responsive-website",
+      liveLink: "https://responsive-website-mauve-xi.vercel.app/",
+      image: "/Loginpage.PNG"
     }
   ];
 
